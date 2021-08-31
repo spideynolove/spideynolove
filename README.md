@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Algorithmic Trading 
 - 🌱 I’m currently learning ... MQL4, python, Data Structure, Algorithm
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... Skype: spideynolove | Gmail: spideynolove@gmail.com
 
 <!---
 spideynolove/spideynolove is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
