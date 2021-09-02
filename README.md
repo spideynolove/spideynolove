@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spideynolove" alt="spideynolove" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/manhhung13" target="blank"><img src="https://img.shields.io/twitter/follow/manhhung13?logo=twitter&style=for-the-badge" alt="manhhung13" /></a> </p>
+<p align="left"> <a href="https://twitter.com/spideynolove" target="blank"><img src="https://img.shields.io/twitter/follow/spideynolove?logo=twitter&style=for-the-badge" alt="spideynolove" /></a> </p>
 
 - 🔭 I’m currently working on [quant](https://github.com/spideynolove/quant)
 
@@ -22,11 +22,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/spideynolove" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="spideynolove" height="30" width="40" /></a>
-<a href="https://twitter.com/manhhung13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manhhung13" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hung-nguyen-61266321b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hung-nguyen-61266321b" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:15347142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:15347142" height="30" width="40" /></a>
+<a href="https://twitter.com/spideynolove" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spideynolove" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hung-nguyen-61266321b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hung-nguyen-61266321b" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15347142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:15347142" height="30" width="40" /></a>
 <a href="https://kaggle.com/hungnm17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hungnm17" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/hungnm17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hungnm17" height="30" width="40" /></a>
+<a href="https://instagram.com/hungnm17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hungnm17" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
