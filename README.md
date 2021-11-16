@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/spideynolove" target="blank"><img src="https://img.shields.io/twitter/follow/spideynolove?logo=twitter&style=for-the-badge" alt="spideynolove" /></a> </p>
 
-- 🔭 I’m currently working on [nft](https://github.com/spideynolove/NFT)
+- 🔭 I’m currently working on [CS50](https://github.com/spideynolove/CS50)
 
 - 🌱 I’m currently learning **python | golang | mql4 | pandas | scikit-learn | numpy |**
 
