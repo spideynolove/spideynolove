@@ -7,17 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/spideynolove" target="blank"><img src="https://img.shields.io/twitter/follow/spideynolove?logo=twitter&style=for-the-badge" alt="spideynolove" /></a> </p>
 
-- 🔭 I’m currently working on [FreeCodeCamp](https://github.com/spideynolove/FreeCodeCamp)
-
 - 🌱 I’m currently learning **python | golang | mql4 | pandas | scikit-learn | numpy |**
-
-- 💬 Ask me about **python | pandas**
 
 - 📫 How to reach me **spideynolove@gmail.com**
 
 - 📄 Know about my experiences [https://stackoverflow.com/users/story/15347142](https://stackoverflow.com/users/story/15347142)
-
-- ⚡ Fun fact **I love drawing: https://www.artstation.com/hungnm17**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
