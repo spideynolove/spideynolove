@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hung</h1>
-<h3 align="center">A passionate data engineer from Viet Nam</h3>
+<h3 align="center">A passionate software engineer from Viet Nam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spideynolove&label=Profile%20views&color=0e75b6&style=flat" alt="spideynolove" /> </p>
 
