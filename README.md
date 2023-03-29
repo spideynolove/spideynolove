@@ -7,7 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/spideynolove" target="blank"><img src="https://img.shields.io/twitter/follow/spideynolove?logo=twitter&style=for-the-badge" alt="spideynolove" /></a> </p>
 
-- 🌱 I’m currently learning **python | golang | mql4 | pandas | scikit-learn | numpy |**
+- 🔭 I’m currently working in **Algorithmic Trading | Web Crawler | ZeroMQ | Data Analyis** Fields
+- 🌱 I’m currently learning **AI | Deep learning**
 
 - 📫 How to reach me **spideynolove@gmail.com**
 
