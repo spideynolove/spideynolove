@@ -16,7 +16,4 @@
 <p align="left">
 <a href="https://linkedin.com/in/hung-nguyen-61266321b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hung-nguyen-61266321b" height="30" width="40" /></a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spideynolove&show_icons=true&locale=en&layout=compact" alt="spideynolove" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spideynolove&show_icons=true&locale=en" alt="spideynolove" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spideynolove&" alt="spideynolove" /></p>
