@@ -1,5 +1,5 @@
 <h2>🙏🏻, I'm Spideynolove! <img src="https://media.giphy.com/media/NXzgEkrXOilbi/giphy.gif" width="55"></h2>
-<img align='right' src="https://media.giphy.com/media/gDH0pb1x7t9eoFXAnc/giphy.gif" width="233">
+<img align='right' src="https://media.giphy.com/media/gDH0pb1x7t9eoFXAnc/giphy.gif" width="144">
 <p><em>Data Engineer at <a href="https://www.linkedin.com/company/world'vest-base">World Vest Base</a> <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="55"> 
 </em></p>
 
