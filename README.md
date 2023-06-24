@@ -37,7 +37,10 @@ introduction = {
 Anybody can be a good programmer irrespective of whether they are introvert or extroverts<br>If fighting is sure to result in victory, than you must fight, even though the ruler forbid it!
 </p>
 
----
+<p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spideynolove&" alt="spideynolove" />
+</p>
+
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
