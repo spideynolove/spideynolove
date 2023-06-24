@@ -41,4 +41,3 @@ Anybody can be a good programmer irrespective of whether they are introvert or e
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
-**These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/spideynolove/waka-readme)**
