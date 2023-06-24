@@ -43,4 +43,11 @@ Anybody can be a good programmer irrespective of whether they are introvert or e
 
 <!--START_SECTION:waka-->
 
+```txt
+Markdown   34 mins         ███████████████▓░░░░░░░░░   63.30 %
+YAML       16 mins         ████████░░░░░░░░░░░░░░░░░   31.44 %
+Text       2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
+Python     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+```
+
 <!--END_SECTION:waka-->
