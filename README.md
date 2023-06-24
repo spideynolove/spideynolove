@@ -7,7 +7,6 @@
 [![Linkedin: hung-nguyen](https://img.shields.io/badge/-hung-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hung-nguyen-61266321b)](https://www.linkedin.com/in/hung-nguyen-61266321b)
 ![GitHub followers](https://img.shields.io/github/followers/spideynolove?label=Follow&style=social)
 ![](https://camo.githubusercontent.com/d1e532c4945c8e447877862a22091e06a8ad843a7993d269df36eca063b8bb2c/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7370696465796e6f6c6f7665266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174)
-![Waka Readme](https://github.com/spideynolove/spideynolove/workflows/waka%2dreadme/badge.svg)
 
 ### <img src="https://media.giphy.com/media/FTFI4bczpUYAp4xuSt/giphy.gif" width="89">   A little more about me...  
 
