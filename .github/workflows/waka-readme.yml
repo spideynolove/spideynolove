@@ -2,11 +2,12 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: '5 5 * * *'
+    # Runs at 12am IST
+    - cron: '0 0 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
-    name: DevMetrics
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
       - uses: spideynolove/waka-readme@master
