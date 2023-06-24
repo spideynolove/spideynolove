@@ -12,3 +12,4 @@ jobs:
       - uses: spideynolove/waka-readme@master
         with:
           WAKATIME_API_KEY: 'waka_a5b6b94b-79cc-4f69-b81c-c7900f9be0f1'
+          GH_TOKEN: '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'
