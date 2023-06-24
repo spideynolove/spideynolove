@@ -1,0 +1,14 @@
+name: Waka Readme
+
+on:
+  schedule:
+    - cron: '5 5 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: spideynolove/wakawaka-readme@master
+        with:
+          WAKATIME_API_KEY: 'waka_a5b6b94b-79cc-4f69-b81c-c7900f9be0f1'
