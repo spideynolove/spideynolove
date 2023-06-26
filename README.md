@@ -31,12 +31,20 @@ introduction = {
 }
 ```
 <p align="center">
-<img src="https://media.giphy.com/media/uToftMe32Se15dLFZD/giphy.gif" width="144">
+<img src="https://media.giphy.com/media/uToftMe32Se15dLFZD/giphy.gif" width="233">
 </p>
 <p align="center">
+<font size="3">
 Anybody can be a good programmer irrespective of whether they are introvert or extroverts<br>If fighting is sure to result in victory, than you must fight, even though the ruler forbid it!
+</font>
 </p>
 
-<p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spideynolove&" alt="spideynolove" />
-</p>
+
+<div align="center">
+<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=spideynolove&layout=compact&langs_count=16&theme=radical"/>
+<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=spideynolove&theme=radical&show_icons=true&include_all_commits=true&hide_border=true"/>
+</div>
+<br>
+<div align="center">
+<img align="center" height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=spideynolove"/>
+</div>
