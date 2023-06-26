@@ -40,14 +40,3 @@ Anybody can be a good programmer irrespective of whether they are introvert or e
 <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spideynolove&" alt="spideynolove" />
 </p>
-
-<!--START_SECTION:waka-->
-
-```txt
-Markdown   34 mins         ███████████████▓░░░░░░░░░   63.30 %
-YAML       16 mins         ████████░░░░░░░░░░░░░░░░░   31.44 %
-Text       2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
-Python     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-```
-
-<!--END_SECTION:waka-->
