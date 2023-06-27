@@ -1,16 +1,15 @@
 <p align="center">
-<img align='center' src="./resources/ohara.gif" width="200">
+<img src="https://media.giphy.com/media/uToftMe32Se15dLFZD/giphy.gif" width="133">
+<img src="./resources/ohara.gif" width="200">
+</p>
+<p align="center">
 <h2 align='center'>🙏🏻, I'm Spideynolove!</h2>
-<!-- <p align='center'> -->
-<!-- <img align='center' src="./resources/ohara3.gif" width="55">  -->
-
+</p>
 <p align='center'>
+<font size="3">
 Data Engineer at <a href="https://www.linkedin.com/company/world'vest-base">World Vest Base</a>
+</font>
 </p>
-</p>
-
-<!-- </p> -->
-<!-- <img align='right' src="https://media.giphy.com/media/gDH0pb1x7t9eoFXAnc/giphy.gif" width="144"> -->
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/spideynolove?label=Follow)
 [![Linkedin: hung-nguyen](https://img.shields.io/badge/-hung-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hung-nguyen-61266321b)](https://www.linkedin.com/in/hung-nguyen-61266321b)
@@ -40,20 +39,12 @@ introduction = {
 }
 ```
 <p align="center">
-<img src="https://media.giphy.com/media/uToftMe32Se15dLFZD/giphy.gif" width="233">
-</p>
-<p align="center">
 <font size="3">
 Anybody can be a good programmer irrespective of whether they are introvert or extroverts<br>If fighting is sure to result in victory, than you must fight, even though the ruler forbid it!
 </font>
 </p>
-
-
 <div align="center">
-<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=spideynolove&layout=compact&langs_count=16&theme=radical"/>
-<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=spideynolove&theme=radical&show_icons=true&include_all_commits=true"/>
-</div>
-<br>
-<div align="center">
-<img align="center" height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=spideynolove&theme=radical"/>
+<img align="center" height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=spideynolove&layout=compact&langs_count=16&theme=radical"/>
+<img align="center" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=spideynolove&theme=radical"/>
+<img align="center" height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=spideynolove&theme=radical&show_icons=true&include_all_commits=true"/>
 </div>
