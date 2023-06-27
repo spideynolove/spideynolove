@@ -1,14 +1,23 @@
-<h2>🙏🏻, I'm Spideynolove! <img src="https://media.giphy.com/media/NXzgEkrXOilbi/giphy.gif" width="55"></h2>
-<img align='right' src="https://media.giphy.com/media/gDH0pb1x7t9eoFXAnc/giphy.gif" width="144">
-<p><em>Data Engineer at <a href="https://www.linkedin.com/company/world'vest-base">World Vest Base</a> <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="55"> 
-</em></p>
+<p align="center">
+<img align='center' src="./resources/ohara.gif" width="200">
+<h2 align='center'>🙏🏻, I'm Spideynolove!</h2>
+<!-- <p align='center'> -->
+<!-- <img align='center' src="./resources/ohara3.gif" width="55">  -->
+
+<p align='center'>
+Data Engineer at <a href="https://www.linkedin.com/company/world'vest-base">World Vest Base</a>
+</p>
+</p>
+
+<!-- </p> -->
+<!-- <img align='right' src="https://media.giphy.com/media/gDH0pb1x7t9eoFXAnc/giphy.gif" width="144"> -->
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/spideynolove?label=Follow)
 [![Linkedin: hung-nguyen](https://img.shields.io/badge/-hung-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hung-nguyen-61266321b)](https://www.linkedin.com/in/hung-nguyen-61266321b)
 ![GitHub followers](https://img.shields.io/github/followers/spideynolove?label=Follow&style=social)
 ![](https://camo.githubusercontent.com/d1e532c4945c8e447877862a22091e06a8ad843a7993d269df36eca063b8bb2c/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7370696465796e6f6c6f7665266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174)
 
-### <img src="https://media.giphy.com/media/FTFI4bczpUYAp4xuSt/giphy.gif" width="89">   A little more about me...  
+### <img src="./resources/ohara2.gif" width="89">   A little more about me...  
 
 ```python
 introduction = {
