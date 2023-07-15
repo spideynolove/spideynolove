@@ -46,5 +46,4 @@ Anybody can be a good programmer irrespective of whether they are introvert or e
 <div align="center">
 <img align="center" height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=spideynolove&layout=compact&langs_count=16&theme=radical"/>
 <img align="center" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=spideynolove&theme=radical"/>
-<img align="center" height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=spideynolove&theme=radical&show_icons=true&include_all_commits=true"/>
 </div>
