@@ -5,11 +5,6 @@
 <p align="center">
 <h2 align='center'>🙏🏻, I'm Spideynolove!</h2>
 </p>
-<p align='center'>
-<font size="3">
-Data Engineer at <a href="https://www.linkedin.com/company/world'vest-base">World Vest Base</a>
-</font>
-</p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/spideynolove?label=Follow)
 [![Linkedin: hung-nguyen](https://img.shields.io/badge/-hung-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hung-nguyen-61266321b)](https://www.linkedin.com/in/hung-nguyen-61266321b)
