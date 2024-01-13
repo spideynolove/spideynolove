@@ -39,6 +39,9 @@ Anybody can be a good programmer irrespective of whether they are introvert or e
 </font>
 </p>
 <div align="center">
-<img align="center" height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=spideynolove&layout=compact&langs_count=16&theme=radical"/>
-<img align="center" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=spideynolove&theme=radical"/>
+    
+<img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=spideynolove&show_icons=true&locale=en&layout=compact"/>
+<img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=spideynolove&show_icons=true&locale=en"/>
+<img align="center" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=spideynolove"/>
+
 </div>
