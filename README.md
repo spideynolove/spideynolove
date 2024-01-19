@@ -24,13 +24,13 @@ introduction = {
     },
     "Ask_me_about": ("Scrapy 🕷️", "Tech", "Python"),
     "Technologies": {
-        "Web_scraping": ("Scrapy", "Playwright", "Financial Data Extraction"),
-        "Deep_learning": ("PyTorch",),
+        "Web scraping": ("Scrapy", "Playwright", "Financial Data Extraction"),
+        "Deep learning": ("PyTorch",),
         "Machine_learning": ("Numpy", "Scipy", "Pandas", "Scikit-learn"),
         "Devops": ("Kubernetes", "Docker 🐳", "Terraform"),
         "Databases": ("mongo", "redis", "sqlite", "postgresql"),
     },
-    "Project_Tags": {
+    "Project-Tags": {
         "ai": "artificial-intelligence",
         "ml": "machine-learning",
         "dl": "deep-learning",
@@ -48,13 +48,16 @@ introduction = {
     "Funfact": "You don’t have to work in tech to use coding"
 }
 ```
+
+<!-- 
 <p align="center">
 <font size="3">
 Anybody can be a good programmer irrespective of whether they are introvert or extroverts<br>If fighting is sure to result in victory, than you must fight, even though the ruler forbid it!
 </font>
-</p>
-<div align="center">
-    
+</p> -->
+
+<div align="center">    
+
 <!-- <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=spideynolove&show_icons=true&locale=en&layout=compact"/> -->
 <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=spideynolove&show_icons=true&locale=en"/>
 <img align="center" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=spideynolove"/>
