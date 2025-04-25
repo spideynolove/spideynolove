@@ -86,7 +86,7 @@ I'm a passionate developer with a focus on Python and web technologies. I love w
 
 - Twitter: [@spideynolove](https://twitter.com/spideynolove)
 - LinkedIn: [hung-nguyen](https://www.linkedin.com/in/hung-nguyen-61266321b)
-- Email: [your-email@example.com](mailto:spideynolove@gmail.com)
+- Email: [spideynolove@gmail.com](mailto:spideynolove@gmail.com)
 
 ---
 
