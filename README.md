@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/uToftMe32Se15dLFZD/giphy.gif" width="133">
-  <img src="./resources/ohara.gif" width="200">
+  <img src="https://media.giphy.com/media/uToftMe32Se15dLFZD/giphy.gif" width="120">
+  <img src="./resources/ohara.gif" width="180">
+</p>
+
+<p align="center">
+  <span style="font-size: 28px">🚀 💻 🌟 ⚡ 🔥</span>
 </p>
 
 <div align="center">
@@ -15,11 +19,13 @@
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph">
 </p>
 
-## <img src="./resources/ohara2.gif" width="50"> About Me
+---
 
-> "Anybody can be a good programmer irrespective of whether they are introvert or extroverts. If fighting is sure to result in victory, than you must fight, even though the ruler forbid it!"
+## <img src="./resources/ohara2.gif" width="45"> 👤 About Me
 
-I'm a passionate developer with a focus on Python and web technologies. I love working on data science projects and creating useful applications that solve real-world problems.
+> 💡 "Anybody can be a good programmer irrespective of whether they are introvert or extroverts. If fighting is sure to result in victory, than you must fight, even though the ruler forbid it!"
+
+👋 I'm a passionate developer with a focus on **Python** 🐍 and **web technologies** 🌐. I love working on **data science** 📊 projects and creating useful applications that solve **real-world problems** 🌍.
 
 <div align="center">
 
@@ -32,33 +38,41 @@ I'm a passionate developer with a focus on Python and web technologies. I love w
 
 </div>
 
-## 🛠️ Technologies
+---
+
+## 🛠️ ⚡ Technologies
 
 <div align="center">
 
-### Web Scraping
-<img src="https://img.shields.io/badge/Scrapy-Web_Scraping-informational?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Playwright-Web_Scraping-informational?style=flat-square&logo=playwright&logoColor=white"/>
+### 🕷️ Web Scraping
 
-### Machine Learning
-<img src="https://img.shields.io/badge/PyTorch-Deep_Learning-informational?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-ML-informational?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-ML-informational?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit_Learn-ML-informational?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/🕷️-Scrapy-informational?style=flat-square"/>
+<img src="https://img.shields.io/badge/🎭-Playwright-informational?style=flat-square"/>
 
-### DevOps & Infrastructure
-<img src="https://img.shields.io/badge/Docker-Containerization-informational?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-Orchestration-informational?style=flat-square&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-IaC-informational?style=flat-square&logo=terraform&logoColor=white"/>
+### 🧠 Machine Learning
 
-### Databases
-<img src="https://img.shields.io/badge/MongoDB-NoSQL-informational?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-Relational-informational?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-Caching-informational?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/🧠-PyTorch-informational?style=flat-square"/>
+<img src="https://img.shields.io/badge/🔢-NumPy-informational?style=flat-square"/>
+<img src="https://img.shields.io/badge/🐼-Pandas-informational?style=flat-square"/>
+<img src="https://img.shields.io/badge/🤖-Scikit_Learn-informational?style=flat-square"/>
+
+### 🐳 DevOps & Infrastructure
+
+<img src="https://img.shields.io/badge/🐳-Docker-informational?style=flat-square"/>
+<img src="https://img.shields.io/badge/☸️-Kubernetes-informational?style=flat-square"/>
+<img src="https://img.shields.io/badge/🏗️-Terraform-informational?style=flat-square"/>
+
+### 💾 Databases
+
+<img src="https://img.shields.io/badge/🍃-MongoDB-informational?style=flat-square"/>
+<img src="https://img.shields.io/badge/🐘-PostgreSQL-informational?style=flat-square"/>
+<img src="https://img.shields.io/badge/🔴-Redis-informational?style=flat-square"/>
 
 </div>
 
-## 🧠 Programming Paradigms
+---
+
+## 🎯 🧠 Programming Paradigms
 
 <div align="center">
 <img src="https://img.shields.io/badge/OOP-Object_Oriented-success?style=flat-square"/>
@@ -66,46 +80,81 @@ I'm a passionate developer with a focus on Python and web technologies. I love w
 <img src="https://img.shields.io/badge/LP-Logic_Programming-success?style=flat-square"/>
 </div>
 
-## 📈 GitHub Stats
+---
+
+## 📊 📈 GitHub Stats
 
 <div align="center">
-  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=spideynolove&show_icons=true&locale=en&theme=radial&hide_border=true"/>
-  <img align="center" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=spideynolove&theme=radial&hide_border=true"/>
+
+![stars](https://img.shields.io/github/stars/spideynolove?style=social)
+&nbsp;
+![followers](https://img.shields.io/github/followers/spideynolove?style=social)
+&nbsp;
+![views](https://komarev.com/ghpvc/?username=spideynolove&label=Profile%20views&color=0e75b6&style=flat)
+
+<br/><br/>
+
+<img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=spideynolove&show_icons=true&locale=en&theme=radial&hide_border=true"/>
+<img align="center" height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=spideynolove&theme=radial&hide_border=true"/>
+
 </div>
 
-## 🔭 Current Project
+---
+
+## 🚀 🔭 Current Project
 
 <div align="center">
-<img src="https://img.shields.io/badge/Stock_Advisor-AI_Powered_Investment_Tool-brightgreen?style=for-the-badge&logo=bitcoin&logoColor=white"/>
+<img src="https://img.shields.io/badge/📈-Stock_Advisor-🤖_AI_Powered-brightgreen?style=for-the-badge&logo=bitcoin&logoColor=white"/>
 </div>
 
-Building an AI-powered tool to help with investment decisions.
+<div align="center">
 
-## 🛠️ Current Projects
+💰 **AI-powered investment decisions** 📊
 
-- **Stock Advisor**: AI-powered investment decision tool
-- **Web Scraping**: Advanced scrapers for financial data extraction
-- **Machine Learning Models**: Predictive models for various applications
+</div>
 
-## 📫 Connect With Me
+---
+
+## 🎨 🛠️ Current Projects
+
+<div align="center">
+
+### 📈 Stock Advisor
+🤖 AI-powered investment decision tool | 💰 Financial analytics
+
+### 🕷️ Web Scraping
+📊 Advanced scrapers for financial data extraction | 🔄 Real-time data
+
+### 🧠 ML Models
+🔮 Predictive models for various applications | 📉 Data analysis
+
+</div>
+
+---
+
+## 📫 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://twitter.com/spideynolove">
-  <img src="https://img.shields.io/badge/Twitter-@spideynolove-blue?style=flat-square&logo=twitter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🐦-Twitter-@spideynolove-blue?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/hung-nguyen-61266321b">
-  <img src="https://img.shields.io/badge/LinkedIn-hung_nguyen-blue?style=flat-square&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/💼-LinkedIn-hung_nguyen-blue?style=for-the-badge"/>
 </a>
 
 <a href="mailto:spideynolove@gmail.com">
-  <img src="https://img.shields.io/badge/Email-spideynolove@gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/📧-Email-spideynolove@gmail.com-red?style=for-the-badge"/>
 </a>
 
 </div>
 
 ---
+
+<p align="center">
+  <b>Thanks for visiting! 👋</b>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
