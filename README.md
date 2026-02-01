@@ -10,6 +10,10 @@
   <b style="font-size: 20px;">Developer | Data Enthusiast | Web Scraper</b>
 </p>
 
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph">
+</p>
+
 ---
 
 ## 🎯 ABOUT ME
