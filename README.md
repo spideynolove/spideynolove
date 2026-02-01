@@ -1,161 +1,72 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/uToftMe32Se15dLFZD/giphy.gif" width="120">
-  <img src="./resources/ohara.gif" width="180">
+  <img src="./resources/ohara.gif" width="200">
 </p>
+
+<h1 align="center" style="border: 3px solid black; padding: 20px; background: linear-gradient(45deg, #FF0000, #000000); color: white; text-shadow: 2px 2px 0 #000; font-size: 48px; transform: skewY(-2deg);">
+  🕷️ SPIDEYNOLOVE 🕸️
+</h1>
 
 <p align="center">
-  <span style="font-size: 28px">🚀 💻 🌟 ⚡ 🔥</span>
-</p>
-
-<div align="center">
-
-![GitHub followers](https://img.shields.io/github/followers/spideynolove?label=Follow&style=social)
-[![Linkedin: hung-nguyen](https://img.shields.io/badge/-hung-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hung-nguyen-61266321b)](https://www.linkedin.com/in/hung-nguyen-61266321b)
-![Profile Views](https://komarev.com/ghpvc/?username=spideynolove&label=Profile%20views&color=0e75b6&style=flat)
-
-</div>
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph">
+  <b style="font-size: 20px;">Developer | Data Enthusiast | Web Scraper</b>
 </p>
 
 ---
 
-## <img src="./resources/ohara2.gif" width="45"> 👤 About Me
+## 🎯 ABOUT ME
 
-> 💡 "Anybody can be a good programmer irrespective of whether they are introvert or extroverts. If fighting is sure to result in victory, than you must fight, even though the ruler forbid it!"
+> **"If fighting is sure to result in victory, then you must fight!"**
 
-👋 I'm a passionate developer with a focus on **Python** 🐍 and **web technologies** 🌐. I love working on **data science** 📊 projects and creating useful applications that solve **real-world problems** 🌍.
+Passionate developer specializing in **Python** and **web technologies**. Building tools for **data science**, **web scraping**, and **real-world problem solving**.
 
 <div align="center">
 
-### 💻 Technical Skills
-
-<img src="https://img.shields.io/badge/Python-55%25-blue?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-25%25-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-15%25-orange?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-5%25-blueviolet?style=for-the-badge&logo=css3&logoColor=white"/>
+![Python](https://img.shields.io/badge/PYTHON-55%25-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54&logoSize=24)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-25%25-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoSize=24)
+![HTML](https://img.shields.io/badge/HTML-15%25-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=24)
+![CSS](https://img.shields.io/badge/CSS-5%25-%231572B6?style=for-the-badge&logo=css3&logoColor=white&logoSize=24)
 
 </div>
 
 ---
 
-## 🛠️ ⚡ Technologies
+## ⚡ TECH ARSENAL
 
-<div align="center">
+<div style="border: 2px solid #000; padding: 15px; background: #000; color: white; margin: 10px 0;">
 
-### 🕷️ Web Scraping
+**🕷️ WEB SCRAPING** ![Scrapy](https://img.shields.io/badge/Scrapy-60a839?style=flat-square&logo=scrapy&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
-<img src="https://img.shields.io/badge/🕷️-Scrapy-informational?style=flat-square"/>
-<img src="https://img.shields.io/badge/🎭-Playwright-informational?style=flat-square"/>
+**🧠 MACHINE LEARNING** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-### 🧠 Machine Learning
+**🐳 DEVOPS** ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/K8S-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
 
-<img src="https://img.shields.io/badge/🧠-PyTorch-informational?style=flat-square"/>
-<img src="https://img.shields.io/badge/🔢-NumPy-informational?style=flat-square"/>
-<img src="https://img.shields.io/badge/🐼-Pandas-informational?style=flat-square"/>
-<img src="https://img.shields.io/badge/🤖-Scikit_Learn-informational?style=flat-square"/>
-
-### 🐳 DevOps & Infrastructure
-
-<img src="https://img.shields.io/badge/🐳-Docker-informational?style=flat-square"/>
-<img src="https://img.shields.io/badge/☸️-Kubernetes-informational?style=flat-square"/>
-<img src="https://img.shields.io/badge/🏗️-Terraform-informational?style=flat-square"/>
-
-### 💾 Databases
-
-<img src="https://img.shields.io/badge/🍃-MongoDB-informational?style=flat-square"/>
-<img src="https://img.shields.io/badge/🐘-PostgreSQL-informational?style=flat-square"/>
-<img src="https://img.shields.io/badge/🔴-Redis-informational?style=flat-square"/>
+**💾 DATABASES** ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
 
 </div>
 
 ---
 
-## 🎯 🧠 Programming Paradigms
+## 💥 CURRENT MISSIONS
 
-<div align="center">
-<img src="https://img.shields.io/badge/OOP-Object_Oriented-success?style=flat-square"/>
-<img src="https://img.shields.io/badge/FP-Functional_Programming-success?style=flat-square"/>
-<img src="https://img.shields.io/badge/LP-Logic_Programming-success?style=flat-square"/>
-</div>
+<div style="border: 3px solid #000; padding: 12px; background: #FF0000; color: white; margin: 8px 0; font-weight: bold;">📈 STOCK ADVISOR — AI-powered investment intelligence</div>
 
----
+<div style="border: 3px solid #000; padding: 12px; background: #000; color: white; margin: 8px 0; font-weight: bold;">🕷️ WEB SCRAPING — Advanced data extraction & real-time processing</div>
 
-## 📊 📈 GitHub Stats
-
-<div align="center">
-
-![stars](https://img.shields.io/github/stars/spideynolove?style=social)
-&nbsp;
-![followers](https://img.shields.io/github/followers/spideynolove?style=social)
-&nbsp;
-![views](https://komarev.com/ghpvc/?username=spideynolove&label=Profile%20views&color=0e75b6&style=flat)
-
-<br/><br/>
-
-<img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=spideynolove&show_icons=true&locale=en&theme=radial&hide_border=true"/>
-<img align="center" height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=spideynolove&theme=radial&hide_border=true"/>
-
-</div>
+<div style="border: 3px solid #000; padding: 12px; background: #002fff; color: white; margin: 8px 0; font-weight: bold;">🧠 AI agents | Claude Code - powered workflows for productivity</div>
 
 ---
 
-## 🚀 🔭 Current Project
-
-<div align="center">
-<img src="https://img.shields.io/badge/📈-Stock_Advisor-🤖_AI_Powered-brightgreen?style=for-the-badge&logo=bitcoin&logoColor=white"/>
-</div>
+## 🔗 CONNECT
 
 <div align="center">
 
-💰 **AI-powered investment decisions** 📊
-
-</div>
-
----
-
-## 🎨 🛠️ Current Projects
-
-<div align="center">
-
-### 📈 Stock Advisor
-🤖 AI-powered investment decision tool | 💰 Financial analytics
-
-### 🕷️ Web Scraping
-📊 Advanced scrapers for financial data extraction | 🔄 Real-time data
-
-### 🧠 ML Models
-🔮 Predictive models for various applications | 📉 Data analysis
-
-</div>
-
----
-
-## 📫 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://twitter.com/spideynolove">
-  <img src="https://img.shields.io/badge/🐦-Twitter-@spideynolove-blue?style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/hung-nguyen-61266321b">
-  <img src="https://img.shields.io/badge/💼-LinkedIn-hung_nguyen-blue?style=for-the-badge"/>
-</a>
-
-<a href="mailto:spideynolove@gmail.com">
-  <img src="https://img.shields.io/badge/📧-Email-spideynolove@gmail.com-red?style=for-the-badge"/>
-</a>
+[![X](https://img.shields.io/badge/𝕏-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/spideynolove)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hung-nguyen-61266321b)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spideynolove@gmail.com)
 
 </div>
 
 ---
 
 <p align="center">
-  <b>Thanks for visiting! 👋</b>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
+  <b>Building. Learning. Creating.</b>
 </p>
