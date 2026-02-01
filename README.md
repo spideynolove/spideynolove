@@ -35,23 +35,13 @@ Passionate developer specializing in **Python** and **web technologies**. Buildi
 
 ## ⚡ TECH ARSENAL
 
-```
-╔═══════════════════════════════════════════════════════════════════════╗
-║                                                                       ║
-║  🕷️  WEB SCRAPING                                                     ║
-║  Scrapy  •  Playwright                                               ║
-║                                                                       ║
-║  🧠 MACHINE LEARNING                                                  ║
-║  PyTorch  •  NumPy  •  Pandas  •  Scikit-Learn                       ║
-║                                                                       ║
-║  🐳 DEVOPS                                                            ║
-║  Docker  •  Kubernetes  •  Terraform                                 ║
-║                                                                       ║
-║  💾 DATABASES                                                         ║
-║  MongoDB  •  PostgreSQL  •  Redis                                    ║
-║                                                                       ║
-╚═══════════════════════════════════════════════════════════════════════╝
-```
+**🕷️ WEB SCRAPING** ![Scrapy](https://img.shields.io/badge/Scrapy-60a839?style=flat-square&logo=scrapy&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+
+**🧠 MACHINE LEARNING** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**🐳 DEVOPS** ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/K8S-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
+
+**💾 DATABASES** ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
 
 ---
 
@@ -80,15 +70,9 @@ Passionate developer specializing in **Python** and **web technologies**. Buildi
 
 <div align="center">
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 [![X](https://img.shields.io/badge/𝕏-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/spideynolove)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hung-nguyen-61266321b)
-
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spideynolove@gmail.com)
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
 
